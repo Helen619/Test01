@@ -1,0 +1,12 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.out
+
+# Editor folders
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
