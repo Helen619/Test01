@@ -24,3 +24,7 @@ Algorithm_Gossip.exe
 ## 说明
 
 该项目适合用于 C 语言入门学习，帮助理解循环、数组和算法实现。
+
+## 下载地址
+
+[GitHub 仓库](https://github.com/Helen619/Test01)
